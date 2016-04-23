@@ -1,0 +1,11 @@
+{
+  "name": "dojonode",
+  "version": "1.0.0",
+  "description": "primera app en nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Juan F. Zuluaga",
+  "license": "ISC"
+}
